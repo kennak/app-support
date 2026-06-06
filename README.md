@@ -11,6 +11,7 @@ Support page for apps and plugins by KNAK.
 | [Simple Chorus](simple-chorus/) | macOS / iOS | AUv3 Effect |
 | [Trem-N-Verb](trem-n-verb/) | macOS / iOS | AUv3 Effect |
 | [DuckingReverb](duckingreverb/) | macOS / iOS | AUv3 Effect |
+| [SlideShow - KNAK](slideshow-knak/) | iOS | Photo & Video |
 
 ---
 
