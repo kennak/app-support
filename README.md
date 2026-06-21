@@ -6,12 +6,13 @@ Support page for apps and plugins by KNAK.
 
 ## Apps & Plugins
 
-| Name | Platform | Type |
-|------|----------|------|
-| [Simple Chorus](simple-chorus/) | macOS / iOS | AUv3 Effect |
-| [Trem-N-Verb](trem-n-verb/) | macOS / iOS | AUv3 Effect |
-| [DuckingReverb](duckingreverb/) | macOS / iOS | AUv3 Effect |
-| [SlideShow - KNAK](slideshow-knak/) | iOS | Photo & Video |
+| Name                                                                                | Platform    | Type          |
+| ------------------------------------------------------------------------------------ | ----------- | ------------- |
+| [Simple Chorus](https://github.com/kennak/app-support/blob/main/simple-chorus)       | macOS / iOS | AUv3 Effect   |
+| [Trem-N-Verb](https://github.com/kennak/app-support/blob/main/trem-n-verb)           | macOS / iOS | AUv3 Effect   |
+| [DuckingReverb](https://github.com/kennak/app-support/blob/main/duckingreverb)       | macOS / iOS | AUv3 Effect   |
+| [GateReverb](https://github.com/kennak/app-support/blob/main/gatereverb)             | macOS / iOS | AUv3 Effect   |
+| [SlideShow - KNAK](https://github.com/kennak/app-support/blob/main/slideshow-knak)   | iOS         | Photo & Video |
 
 ---
 
@@ -19,7 +20,7 @@ Support page for apps and plugins by KNAK.
 
 For support and inquiries, please contact us at:
 
-**contact@knaka.net**
+**<contact@knaka.net>**
 
 ---
 
@@ -27,4 +28,4 @@ For support and inquiries, please contact us at:
 
 お問い合わせはこちらまでメールをお送りください：
 
-**contact@knaka.net**
+**<contact@knaka.net>**
