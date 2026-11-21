@@ -9,6 +9,7 @@ Support page for apps and plugins by KNAK.
 | Name                                                                                | Platform    | Type          |
 | ------------------------------------------------------------------------------------ | ----------- | ------------- |
 | [Simple Chorus](https://github.com/kennak/app-support/blob/main/simple-chorus)       | macOS / iOS | AUv3 Effect   |
+| [Simple Spread](https://github.com/kennak/app-support/blob/main/simple-spread)       | macOS / iOS | AUv3 Effect   |
 | [Trem-N-Verb](https://github.com/kennak/app-support/blob/main/trem-n-verb)           | macOS / iOS | AUv3 Effect   |
 | [DuckingReverb](https://github.com/kennak/app-support/blob/main/duckingreverb)       | macOS / iOS | AUv3 Effect   |
 | [GateReverb](https://github.com/kennak/app-support/blob/main/gatereverb)             | macOS / iOS | AUv3 Effect   |
